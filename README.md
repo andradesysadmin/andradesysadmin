@@ -3,6 +3,9 @@
 <li> 👨‍🎓 I am currently studying high school and technical at the <a href="http://ifmt.edu.br/">Federal Institute of Education, Science and Technology of Mato Grosso</a>
 <li> 🏃‍♂️ In my free time I like to draw, read science fiction books and work on my electronics projects
 <li> 👴 In the future I intend to learn more about <a href=https://www.python.org/>Python</a> and AI, subjects that I have always been interested in but never had time to study
+<li> 🔭 I'm currently working on an App that uses <a href="https://reactnative.dev/">React Native</a> to control a greenhouse system made in <a href="https://www.arduino.cc/">Arduino</a>
+ <li> 🌱 
+I'm currently studying microcontroller programming
 </ul>
 
 <h2 align="center"> 🛠 Tech stacks </h2>
@@ -31,5 +34,5 @@
 
 <h2 align="center"> 📧 Talk to me </h2>
 <div align="center" class="myWrapper" markdown="1">
-<img href="https://github.com/gabrielossos" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" align="center"/> <img href="https://www.linkedin.com/in/gabriel-cortez-272801202" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" align="center" /> <img href="" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" align="center" />
+<img href="https://discord.com/channels/@TenhoVergonhaDeMinhasAtitudes" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" align="center"/> <img href="https://www.linkedin.com/in/gabriel-cortez-272801202" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" align="center" /> <img href="" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" align="center" />
 </div>
