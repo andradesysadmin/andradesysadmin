@@ -6,6 +6,7 @@
 <li> 🔭 I'm currently working on an App that uses <a href="https://reactnative.dev/">React Native</a> to control a greenhouse system made in <a href="https://www.arduino.cc/">Arduino</a>
  <li> 🌱 
 I'm currently studying microcontroller programming
+ <li> 📧 Talk to me at gandradecortez50@gmail.com
 </ul>
 
 <h2 align="center"> 🛠 Tech stacks </h2>
