@@ -29,6 +29,6 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielossos&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 <h2 align="center"> 📧 Talk to me </h2>
-<div class="myWrapper" markdown="1">
+<div align="center" class="myWrapper" markdown="1">
 <img href="https://github.com/gabrielossos" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" align="center"/> <img href="https://www.linkedin.com/in/gabriel-cortez-272801202" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" align="center" /> <img href="" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" align="center" />
 </div>
