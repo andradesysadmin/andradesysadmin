@@ -31,8 +31,3 @@ I'm currently studying microcontroller programming
 <div align="center" class="myWrapper" markdown="1">
 <img src="https://github-readme-stats.vercel.app/api?username=gabrielossos&show_icons=true&theme=radical"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielossos&show_icons=true&theme=radical" href="https://github.com/anuraghazra/github-readme-stats">
 </div>
-
-<h2 align="center"> 📧 Talk to me </h2>
-<div align="center" class="myWrapper" markdown="1">
-<img href="https://discord.com/channels/@TenhoVergonhaDeMinhasAtitudes" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" align="center"/> <img href="https://www.linkedin.com/in/gabriel-cortez-272801202" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" align="center" /> <img href="" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" align="center" />
-</div>
