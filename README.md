@@ -25,7 +25,9 @@
  </div>
 <h2 align="center"> ⚡ Github stats </h2>
   
+<div align="center" class="myWrapper" markdown="1">
 <img src="https://github-readme-stats.vercel.app/api?username=gabrielossos&show_icons=true&theme=radical"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielossos&show_icons=true&theme=radical" href="https://github.com/anuraghazra/github-readme-stats">
+</div>
 
 <h2 align="center"> 📧 Talk to me </h2>
 <div align="center" class="myWrapper" markdown="1">
