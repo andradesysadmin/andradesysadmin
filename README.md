@@ -1,4 +1,4 @@
-<h2 align="center">  Who is Gabriel? </h2>
+<h2 align="center"> 👨‍💻 Who is Gabriel? </h2>
 <ul>
 <li> 👨‍🎓 I am currently studying high school and technical at the <a href="http://ifmt.edu.br/">Federal Institute of Education, Science and Technology of Mato Grosso</a>
 <li> 🏃‍♂️ In my free time I like to draw, read science fiction books and work on my electronics projects
