@@ -2,7 +2,8 @@
 * 👨‍🎓 I am currently studying high school and technical at the [Federal Institute of Education, Science and Technology of Mato Grosso](http://ifmt.edu.br/)
 * 🏃‍♂️ In my free time I like to draw, read science fiction books and work on my electronics projects
 * 👴 In the future I intend to learn more about [Python](https://www.python.org/) and AI, subjects that I have always been interested in but never had time to study
-### 🛠 My main tech stacks
+
+### 🛠 Tech stacks
 
 ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) 
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
@@ -15,6 +16,10 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![MySql](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![JQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
+![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 
 ### ⚡ Github stats
 
