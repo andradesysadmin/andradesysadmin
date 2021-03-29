@@ -25,9 +25,12 @@ I'm currently studying microcontroller programming
 <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
 <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
 <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Arduino/#00979D}?style=for-the-badge&logo={ICON}&logoColor=white"/>
  </div>
 <h2 align="center"> ⚡ Github stats </h2>
   
 <div align="center" class="myWrapper" markdown="1">
 <img src="https://github-readme-stats.vercel.app/api?username=gabrielossos&show_icons=true&theme=radical"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielossos&show_icons=true&theme=radical" href="https://github.com/anuraghazra/github-readme-stats">
 </div>
+
+
