@@ -3,7 +3,6 @@
 <li> 👨‍🎓 I am currently studying high school and technical at the <a href="http://ifmt.edu.br/">Federal Institute of Education, Science and Technology of Mato Grosso</a>
 <li> 🏃‍♂️ In my free time I like to draw, read science fiction books and work on my electronics projects
 <li> 👴 In the future I intend to learn more about <a href=https://www.python.org/>Python</a> and AI, subjects that I have always been interested in but never had time to study
-<li> 
 </ul>
 
 <h2 align="center"> 🛠 Tech stacks </h2>
