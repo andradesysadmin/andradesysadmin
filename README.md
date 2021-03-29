@@ -16,12 +16,12 @@
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![MySql](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 
-### 📝 Github stats
+### ⚡ Github stats
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrielossos&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielossos&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-### 📫 Talk to me
+### 📧 Talk to me
 
 [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gabrielossos)
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-cortez-272801202)
