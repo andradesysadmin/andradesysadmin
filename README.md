@@ -3,9 +3,8 @@
 <li> 👨‍🎓 I am currently studying high school and technical at the <a href="http://ifmt.edu.br/">Federal Institute of Education, Science and Technology of Mato Grosso</a>
 <li> 🏃‍♂️ In my free time I like to draw, read science fiction books and work on my electronics projects
 <li> 👴 In the future I intend to learn more about <a href=https://www.python.org/>Python</a> and AI, subjects that I have always been interested in but never had time to study
-<li> 🔭 I'm currently working on an App that uses <a href="https://reactnative.dev/">React Native</a> to control a greenhouse system made in <a href="https://www.arduino.cc/">Arduino</a>
- <li> 🌱 
-I'm currently studying microcontroller programming
+<li> 🔭 I am currently working on an application that uses <a href="https://reactnative.dev/">React Native</a> to control the greenhouse system made in <a href="https://www.arduino.cc/">Arduino</a>
+ <li> 🌱 I'm currently studying microcontroller programming
  <li> 📧 Talk to me at gandradecortez50@gmail.com
 </ul>
 
