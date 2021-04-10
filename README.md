@@ -4,7 +4,7 @@
 <img align="center" src="https://static.wikia.nocookie.net/spongeboi/images/0/0b/Spongebobdancing.gif/revision/latest?cb=20200525152626"/>
 </div>
 
-<h2 align="center"> 🛠 Main Tech stacks </h2>
+<h2 align="center"> 🛠 Top tech stacks </h2>
 <div align="center" class="myWrapper" markdown="1">
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
