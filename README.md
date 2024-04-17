@@ -2,9 +2,9 @@
 
 <div align="center">
 <img align="center" src="https://static.wikia.nocookie.net/spongeboi/images/0/0b/Spongebobdancing.gif/revision/latest?cb=20200525152626"/><br><br>
-  <ul>->Atualmente estou cursando superior em sistemas para internet 👨‍🏫</ul>
-  <ul>->Buscando oportunidade para expandir minhas habilidades e conhecimentos ⚙️</ul>
-  <ul>->No momento estou estudando laravel 📚</ul>
+  <ul>->Atualmente estou cursando Sistemas para internet no Instituto Federal de Mato Grosso👨‍🏫</ul>
+  <ul>->Buscando oportunidades para expandir minhas habilidades e conhecimentos ⚙️</ul>
+  <ul>->No momento estou estudando laravel e react 📚</ul>
 </div>
 
 <h2 align="center"> ⚡ Linguages </h2>
