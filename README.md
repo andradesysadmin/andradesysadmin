@@ -1,4 +1,4 @@
-<h2 align="center"> Olá </h2>
+<h2 align="center"> Bem vindo ao meu github 🤘 </h2>
 
 <div align="center">
 <img align="center" src="https://static.wikia.nocookie.net/spongeboi/images/0/0b/Spongebobdancing.gif/revision/latest?cb=20200525152626"/><br><br>
@@ -7,7 +7,7 @@
   <ul>->No momento estou estudando laravel, node.js e react 📚</ul>
 </div>
 
-<h2 align="center"> ⚡ Linguages </h2>
+<h2 align="center"> ⚡ Stacks </h2>
 
 <div align="center">
   
