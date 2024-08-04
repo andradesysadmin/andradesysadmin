@@ -3,7 +3,7 @@
 <img align="center" src="https://static.wikia.nocookie.net/spongeboi/images/0/0b/Spongebobdancing.gif/revision/latest?cb=20200525152626"/><br><br>
   <ul>->I am currently studying Internet Systems at the Federal Institute of Mato Grosso👨‍🏫</ul>
   <ul>->Looking for opportunities to expand my skills and knowledge ⚙️</ul>
-  <ul>->I am currently studying Docker, Fortigate Firewall, and Pyhton for automation 📚</ul>
+  <ul>->I am currently studying Docker, Fortigate Firewall and Pyhton for automation 📚</ul>
 </div>
 
 <h2 align="center"> ⚡ Github stats </h2>
