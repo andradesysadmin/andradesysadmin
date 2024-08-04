@@ -1,18 +1,9 @@
-<h2 align="center"> Bem vindo ao meu github 🤘 </h2>
-
+<h2 align="center"> Welcome to my github 🤘 </h2>
 <div align="center">
 <img align="center" src="https://static.wikia.nocookie.net/spongeboi/images/0/0b/Spongebobdancing.gif/revision/latest?cb=20200525152626"/><br><br>
-  <ul>->Atualmente estou cursando Sistemas para internet no Instituto Federal de Mato Grosso👨‍🏫</ul>
-  <ul>->Buscando oportunidades para expandir minhas habilidades e conhecimentos ⚙️</ul>
-  <ul>->No momento estou estudando laravel, node.js e react 📚</ul>
-</div>
-
-<h2 align="center"> ⚡ Stacks </h2>
-
-<div align="center">
-  
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-
+  <ul>->I am currently studying Internet Systems at the Federal Institute of Mato Grosso👨‍🏫</ul>
+  <ul>->Looking for opportunities to expand my skills and knowledge ⚙️</ul>
+  <ul>->I am currently studying Docker, Fortigate Firewall, and Pyhton for automation 📚</ul>
 </div>
 
 <h2 align="center"> ⚡ Github stats </h2>
