@@ -3,9 +3,10 @@
 <div align="center">
   <img align="center" src="gif" alt="Welcome Gif"/><br><br>
   <ul style="list-style-type: none; padding: 0;">
-    <li>🔹 I am currently studying Internet Systems at the Federal Institute of Mato Grosso 👨‍🏫</li>
-    <li>🔹 Looking for opportunities to expand my skills and knowledge ⚙️</li>
-    <li>🔹 I am currently studying Docker, Fortigate Firewall, and Python for automation 📚</li>
+    <li>🔹 Systems administrator passionate about information security 🐧</li>
+    <li>🔹 Currently studying higher education in Internet Systems at the Federal Institute of Mato Grosso 👨‍🏫</li>
+    <li>🔹 Looking for opportunities to expand my knowledge ⚙️</li>
+    <li>🔹 Studying Docker, Nginx, Fortigate Firewall, and Python for automation 📚</li>
   </ul>
 </div>
 
