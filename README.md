@@ -13,8 +13,8 @@
 <h2 align="center">⚡ GitHub Stats</h2>
 
 <div align="center" class="myWrapper">
-  <img src="https://github-readme-stats.vercel.app/api?username=andradecybersec&show_icons=true&theme=radical" alt="GitHub Stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andradecybersec&show_icons=true&theme=radical" alt="Top Languages">
+  <img src="https://github-readme-stats.vercel.app/api?username=andradesysadmin&show_icons=true&theme=radical" alt="GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andradesysadmin&show_icons=true&theme=radical" alt="Top Languages">
 </div>
 
 
