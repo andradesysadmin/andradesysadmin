@@ -12,8 +12,8 @@
 <h2 align="center">⚡ GitHub Stats</h2>
 
 <div align="center" class="myWrapper">
-  <img src="https://github-readme-stats.vercel.app/api?username=andradesysadmin&show_icons=true&theme=calm_pink" alt="GitHub Stats" height=200>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andradesysadmin&hide_progress=true&theme=calm_pink" alt="Top Languages" height=200>
+  <img src="https://github-readme-stats.vercel.app/api?username=andradesysadmin&show_icons=true&theme=calm_pink" alt="GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andradesysadmin&hide_progress=true&theme=calm_pink" alt="Top Languages">
 </div>
 
 
