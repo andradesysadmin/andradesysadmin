@@ -13,7 +13,7 @@
 
 <div align="center" class="myWrapper">
   <img src="https://github-readme-stats.vercel.app/api?username=andradesysadmin&show_icons=true&theme=calm_pink" alt="GitHub Stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andradesysadmin&hide_progress=true" alt="Top Languages">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andradesysadmin&hide_progress=true&theme=calm_pink" alt="Top Languages">
 </div>
 
 
