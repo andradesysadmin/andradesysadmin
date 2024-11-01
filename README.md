@@ -1,5 +1,5 @@
 <h2 align="center">Welcome to my GitHub ☕</h2>
-<center>![image](https://github.com/user-attachments/assets/7192e0b9-4ece-43bf-ae83-712043b36091)</center>
+<center><img src=https://github.com/user-attachments/assets/7192e0b9-4ece-43bf-ae83-712043b36091"></center>
 
 <div align="center">
   <ul style="list-style-type: none; padding: 0;">
