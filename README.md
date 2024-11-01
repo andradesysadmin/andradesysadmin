@@ -1,5 +1,5 @@
 <h2 align="center">Welcome to my GitHub ☕</h2>
-<center><img src="https://raw.githubusercontent.com/andradesysadmin/andradesysadmin/refs/heads/main/linux-linux-power.gif"></center>
+<img align="center" src="https://raw.githubusercontent.com/andradesysadmin/andradesysadmin/refs/heads/main/linux-linux-power.gif">
 
 <div align="center">
   <ul style="list-style-type: none; padding: 0;">
