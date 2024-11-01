@@ -1,5 +1,7 @@
-<img align="center" src="https://raw.githubusercontent.com/andradesysadmin/andradesysadmin/refs/heads/main/linux-linux-power.gif">
-<h2 align="center">Welcome to my GitHub ☕</h2>
+<div align="center" class="myWrapper">
+  <img align="center" src="https://raw.githubusercontent.com/andradesysadmin/andradesysadmin/refs/heads/main/linux-linux-power.gif">
+  <h2 align="center">Welcome to my GitHub ☕</h2>
+</div>
 <div align="center">
   <ul style="list-style-type: none; padding: 0;">
     <li>🔹 Sys administrator and programmer 🐧</li>
