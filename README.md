@@ -2,9 +2,9 @@
   <img align="center" src="https://raw.githubusercontent.com/andradesysadmin/andradesysadmin/refs/heads/main/linux-linux-power.gif">
   <h2 align="center">Welcome to my GitHub ☕</h2>
 </div>
-<div align="center">
+<div>
   <ul style="list-style-type: none; padding: 0;">
-    <li>🔹 Sys administrator and programmer 🐧</li>
+    <li>🔹 Sys administrator, DevOps Engenier and programmer 🐧</li>
     <li>🔹 Currently studying higher education in Internet Systems at the Federal Institute of Mato Grosso 👨‍🏫</li>
     <li>🔹 Looking for opportunities to expand my knowledge ⚙️</li>
     <li>🔹 Studying Docker, Linux, Jenkins and Python 📚</li>
