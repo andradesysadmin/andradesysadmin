@@ -4,7 +4,7 @@
 </div>
 <div>
   <ul style="list-style-type: none; padding: 0;">
-    <li>🔹 Sys administrator, DevOps Engenier and programmer 🐧</li>
+    <li>🔹 SysAdmin, DevOps Engenier and Programmer 🐧</li>
     <li>🔹 Currently studying higher education in Internet Systems at the Federal Institute of Mato Grosso 👨‍🏫</li>
     <li>🔹 Looking for opportunities to expand my knowledge ⚙️</li>
     <li>🔹 Studying Docker, Linux, Jenkins and Python 📚</li>
