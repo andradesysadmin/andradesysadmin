@@ -1,13 +1,13 @@
 <div align="center" class="myWrapper">
-  <img align="center" src="https://raw.githubusercontent.com/andradesysadmin/andradesysadmin/refs/heads/main/linux-linux-power.gif">
-  <h2 align="center">Welcome to my GitHub ☕</h2>
+  <!--<img align="center" src="https://raw.githubusercontent.com/andradesysadmin/andradesysadmin/refs/heads/main/linux-linux-power.gif">-->
+  <h2 align="center">welcome to the jungle 👊🔥Free by necessity... Linux by choice.</h2>
 </div>
 <div>
   <ul style="list-style-type: none; padding: 0;">
-    <li>🔹 SysAdmin, DevOps Engenier and Programmer 🐧</li>
+    <li>🔹 FLOSS and KISS are my life philosophies 🐧</li>
+    <li>🔹 Fascinated by managing complex infrastructures with automation tools ⚙️</li>
     <li>🔹 Currently studying higher education in Internet Systems at the Federal Institute of Mato Grosso 👨‍🏫</li>
-    <li>🔹 Looking for opportunities to expand my knowledge ⚙️</li>
-    <li>🔹 Studying Docker, Linux, Jenkins and Python 📚</li>
+    <li>🔹 My skills including: Docker, Python, Bash, AWS, Jenkins, Fortigate, PHP, Linux and PostgreSQL 📚</li>
   </ul>
 </div>
 
