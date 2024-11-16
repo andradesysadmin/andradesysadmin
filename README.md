@@ -1,6 +1,6 @@
 <div align="center" class="myWrapper">
   <!--<img align="center" src="https://raw.githubusercontent.com/andradesysadmin/andradesysadmin/refs/heads/main/linux-linux-power.gif">-->
-  <h2 align="center">welcome to the jungle 👊🔥Free by necessity... Linux by choice.</h2>
+  <h2 align="center">welcome to the jungle 👊🔥</h2>
 </div>
 <div>
   <ul style="list-style-type: none; padding: 0;">
