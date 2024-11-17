@@ -4,10 +4,10 @@
 </div>
 <div>
   <ul style="list-style-type: none; padding: 0;">
-    <li>🔹 FLOSS and KISS are my life philosophies 🐧</li>
-    <li>🔹 Fascinated by managing complex infrastructures with automation tools ⚙️</li>
-    <li>🔹 Currently studying higher education in Internet Systems at the Federal Institute of Mato Grosso 👨‍🏫</li>
-    <li>🔹 My skills including: Docker, Python, Bash, AWS, Jenkins, Fortigate, PHP, Linux and PostgreSQL 📚</li>
+    <li>🔹 FLOSS and KISS are my life philosophies </li>
+    <li>🔹 Fascinated by managing complex infrastructures with automation tools </li>
+    <li>🔹 Currently studying higher education in Internet Systems at the Federal Institute of Mato Grosso </li>
+    <li>🔹 My skills including: Docker, Python, Bash, AWS, Jenkins, Fortigate, PHP, Linux and PostgreSQL </li>
   </ul>
 </div>
 
