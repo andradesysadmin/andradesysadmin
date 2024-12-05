@@ -10,7 +10,7 @@
   </ul>
 </div>
 
-<h2 align="center">gitHub Stats</h2>
+<h2 align="center">github stats</h2>
 
 <div align="center" class="myWrapper">
   <img src="https://github-readme-stats.vercel.app/api?username=andradesysadmin&show_icons=true&theme=calm_pink" alt="GitHub Stats">
