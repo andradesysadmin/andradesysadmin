@@ -9,9 +9,7 @@
     <li>🔹 My skills including: Docker, Kubernets, Python, Bash, AWS, Jenkins, Fortigate, PHP, Linux and PostgreSQL </li>
   </ul>
 </div>
-
-<h2 align="center">github stats</h2>
-
+<hr>
 <div align="center" class="myWrapper">
   <img src="https://github-readme-stats.vercel.app/api?username=andradesysadmin&show_icons=true&theme=calm_pink" alt="GitHub Stats">
 </div>
